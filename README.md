@@ -1,0 +1,2 @@
+# Supersonic-Nozzle-Flow-CFD-Analysis-of-a-Converging-Diverging-Nozzle-in-ANSYS-Fluent
+This repository documents a detailed Computational Fluid Dynamics (CFD) study of compressible flow through a converging-diverging (C-D) nozzle using ANSYS Fluent. The simulation examines flow behavior across a wide range of inlet pressures (1.5 atm to 40 atm), focusing on Mach number distribution, pressure variation, and shock wave formation .
